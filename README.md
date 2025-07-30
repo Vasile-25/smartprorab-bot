@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 2. Створи файл `.env` та встав свій токен:
 ```
-BOT_TOKEN=your_token_here
+BOT_TOKEN=7253351659:AAHIlLIZx8FdKuOcFRJzXvn1CfHjhQne4ts
 ```
 
 3. Запусти бота:
